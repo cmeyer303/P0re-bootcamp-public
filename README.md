@@ -1,1 +1,1 @@
-# P0re-bootcamp-public
+# Pre-bootcamp-public
